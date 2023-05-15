@@ -1,3 +1,5 @@
+package 第二章算数运算;
+
 import java.util.Scanner;
 
 public class MySanner {

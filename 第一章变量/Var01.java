@@ -1,3 +1,5 @@
+package 第一章变量;
+
 /**
  * Var01
  */
@@ -5,7 +7,6 @@ public class Var01 {
   public static void main(String[] args) {
     // 整数数字默认为int
     // 小数点数字默认为double
-
     char an = 'a'; // 本子也是整数 也就是ASSIC码
 
     byte n0 = 1; // -128 - 127
@@ -20,6 +21,9 @@ public class Var01 {
 
     String name = "李岚清";
 
+    final int MAX_VALUE = 100; // 声明常量
+
+    System.out.println(MAX_VALUE);
     System.out.println(an);
     System.out.println(n0);
     System.out.println(n1);
