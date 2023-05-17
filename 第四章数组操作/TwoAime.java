@@ -17,6 +17,7 @@ public class TwoAime {
         arrs2[i][j] = i + 1;
       }
     }
+
   }
 
 }
